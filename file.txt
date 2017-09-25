@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, world!
+=======
+Hello, my name is Pasha
+>>>>>>> a3fa805f0f7a0bbbc8198592c9d009032139f206
